@@ -1,0 +1,13 @@
+.npmrc
+node_modules
+build
+dist
+installer
+
+.idea
+*.iml
+*.ipr
+*.iws
+
+**/configs/stand-alone-build.json
+*.dll

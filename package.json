@@ -1,0 +1,23 @@
+{
+  "name": "electron-ranorex-sample",
+  "version": "1.0.0",
+  "description": "Simple demo app for Ranorex BrowserView issue based on the electron quick start sample.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.9.0"
+  },
+  "keywords": [
+    "ranorex",
+    "electron",
+    "browserview"
+  ],
+  "author": "maximilian.buettner@westernacher.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "5.0.12"
+  }
+}
