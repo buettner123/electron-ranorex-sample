@@ -18,6 +18,6 @@
   "author": "maximilian.buettner@westernacher.com",
   "license": "ISC",
   "devDependencies": {
-    "electron": "5.0.12"
+    "electron": "9.4.0"
   }
 }
